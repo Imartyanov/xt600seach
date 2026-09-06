@@ -12,7 +12,7 @@ permissions:
   id-token: write
 concurrency:
   group: yamaha-pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -57,6 +57,7 @@ jobs:
           git add data/listings.json
           if ! git diff --cached --quiet; then
             git commit -m 'Update verified Yamaha listings'
+            git pull --rebase origin main
             git push
           fi
       - if: steps.clock.outputs.run == 'true'
