@@ -1,0 +1,11 @@
+{
+  "queries": ["yamaha xt600", "yamaha xt 600", "xt600", "xt 600", "tenere 600", "ténéré 600"],
+  "max_pages_per_query": 20,
+  "request_delay_seconds": 2,
+  "seed_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600z-tenere-3aj-restauriert/3483708231-305-8487?utm_source=copyToPasteboard&utm_campaign=socialbuttons&utm_medium=social&utm_content=app_ios",
+    "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600-tenere-3-aj/3484867714-305-387?utm_source=copyToPasteboard&utm_campaign=socialbuttons&utm_medium=social&utm_content=app_ios",
+    "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600-3aj/3503048658-305-19811?utm_source=copyToPasteboard&utm_campaign=socialbuttons&utm_medium=social&utm_content=app_ios"
+  ]
+}
+

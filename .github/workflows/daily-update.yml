@@ -1,0 +1,73 @@
+name: Daily check and GitHub Pages
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 5 * * *'
+    - cron: '17 6 * * *'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: yamaha-pages
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Select 07:17 Europe/Berlin, including DST
+        id: clock
+        env:
+          EVENT: ${{ github.event_name }}
+          CRON: ${{ github.event.schedule }}
+        run: |
+          python - <<'PY'
+          import os
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          offset = datetime.now(ZoneInfo('Europe/Berlin')).utcoffset().total_seconds()/3600
+          # Two distinct schedules avoid depending on delayed job start hour.
+          run = os.environ['EVENT'] != 'schedule' or os.environ['CRON'] == ('17 5 * * *' if offset == 2 else '17 6 * * *')
+          with open(os.environ['GITHUB_OUTPUT'],'a') as f: f.write(f'run={str(run).lower()}\n')
+          PY
+      - if: steps.clock.outputs.run == 'true'
+        run: pip install -r requirements.txt
+      - if: steps.clock.outputs.run == 'true'
+        run: python -m unittest discover -s tests -v
+      - name: Update listings
+        if: steps.clock.outputs.run == 'true'
+        run: |
+          python scripts/update_listings.py
+          python scripts/apply_reviews.py
+      - name: Save history
+        if: steps.clock.outputs.run == 'true'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/listings.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update verified Yamaha listings'
+            git push
+          fi
+      - if: steps.clock.outputs.run == 'true'
+        run: python scripts/build.py
+      - if: steps.clock.outputs.run == 'true'
+        uses: actions/configure-pages@v5
+      - if: steps.clock.outputs.run == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - if: steps.clock.outputs.run == 'true'
+        id: deploy
+        uses: actions/deploy-pages@v4
+
