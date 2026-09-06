@@ -1948,6 +1948,19 @@
     "red_white": false,
     "whole_motorcycle": false,
     "visually_verified_3aj": false
+  },
+  "3462161631": {
+    "decision": "approved",
+    "rule_version": 1,
+    "listing_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600-tenere-3aj/3462161631-305-2811",
+    "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/046542b2-b49c-4a90-b315-1288fdb75b26?rule=$_59.JPG",
+    "image_sha256": "1b3b5ab394128cd0cbb3fe2a89e8541e2a3f74b1ea76b593d06342af03301f02",
+    "reviewed_at": "2026-09-06T20:37:44.032771+00:00",
+    "reviewer": "user-confirmed",
+    "evidence": "User inspected the exact listing in the browser and explicitly requested that this complete red-white Yamaha XT 600 Tenere 3AJ be included. Approval is bound to this listing URL and exact image hash.",
+    "red_white": true,
+    "whole_motorcycle": true,
+    "visually_verified_3aj": true
   }
 }
 
