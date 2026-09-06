@@ -63,8 +63,20 @@ def update(seed_only=False):
             logging.warning('%s: %s', ad_id, error)
             errors.append({'id': ad_id, 'url': url, 'error': str(error)})
             if old:
-                # Keep last known fields and active state, but exclude from current results.
-                records[ad_id] = {**old, 'last_checked': stamp, 'check_status': 'error'}
+                # Keep a matching manual approval through transient network failures.
+                # The approval remains bound to the exact listing URL and image hash.
+                verified = bool(old.get('active') and (
+                    old.get('visually_verified_3aj')
+                    or approved(old, reviews, old.get('image_sha256'))
+                ))
+                records[ad_id] = {
+                    **old,
+                    'last_checked': stamp,
+                    'check_status': 'error',
+                    'visually_verified_3aj': verified,
+                    'red_white': verified,
+                    'review_status': 'approved' if verified else old.get('review_status', 'needs_review'),
+                }
             else:
                 records[ad_id] = {'id': ad_id, 'listing_url': url, 'active': None,
                                   'first_seen': stamp, 'last_checked': stamp, 'check_status': 'error'}
