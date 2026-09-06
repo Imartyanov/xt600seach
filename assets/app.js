@@ -3,7 +3,7 @@ const money = n => new Intl.NumberFormat('de-DE',{style:'currency',currency:'EUR
 const date = s => s ? new Intl.DateTimeFormat('ru-RU',{dateStyle:'short',timeStyle:'short',timeZone:'Europe/Berlin'}).format(new Date(s)) + ' · Berlin' : 'ещё не выполнялась';
 const el = (tag, cls, text) => { const e=document.createElement(tag); if(cls)e.className=cls; if(text!==undefined)e.textContent=text; return e; };
 let records=[];
-function eligible(x){try{const u=new URL(x.app_share_url);return x.active===true && x.visually_verified_3aj===true && x.red_white===true && x.check_status==='ok' && Date.now()-Date.parse(x.last_seen)<36*3600000 && u.hostname==='www.kleinanzeigen.de' && /^\/s-anzeige\/[^/]+\/\d+-305-\d+$/.test(u.pathname) && x.app_share_url===x.listing_url+'?utm_source=copyToPasteboard&utm_campaign=socialbuttons&utm_medium=social&utm_content=app_ios' && new URL(x.image_url).hostname==='img.kleinanzeigen.de';}catch{return false;}}
+function eligible(x){try{const u=new URL(x.app_share_url);return x.active===true && x.visually_verified_3aj===true && x.red_white===true && Date.now()-Date.parse(x.last_seen)<36*3600000 && u.hostname==='www.kleinanzeigen.de' && /^\/s-anzeige\/[^/]+\/\d+-305-\d+$/.test(u.pathname) && x.app_share_url===x.listing_url+'?utm_source=copyToPasteboard&utm_campaign=socialbuttons&utm_medium=social&utm_content=app_ios' && new URL(x.image_url).hostname==='img.kleinanzeigen.de';}catch{return false;}}
 function render(){
  $('cards').replaceChildren(); const items=records.filter(eligible).sort((a,b)=>$('sort').value==='price'?(a.price_eur??Infinity)-(b.price_eur??Infinity):Date.parse(b.date_listed||b.first_seen)-Date.parse(a.date_listed||a.first_seen));
  let shown=items.length; $('count').textContent=shown; $('empty').hidden=shown>0;
