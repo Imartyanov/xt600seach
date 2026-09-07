@@ -35,12 +35,12 @@ select{border:1px solid #414346;background:#1c1e20;color:#ddd;padding:12px;borde
 .specs{display:flex;gap:35px;border-top:1px solid #36383a;border-bottom:1px solid #36383a;padding:16px 0;margin:0 0 18px}
 .specs dt{color:#999ea1;font-size:.75rem;margin-bottom:7px}
 .specs dd{margin:0;font-size:.95rem}
-.verified{font-size:.875rem;color:#bdcfbf;margin:0 0 20px}
+.verified,.pending{font-size:.875rem;margin:0 0 20px}
+.verified{color:#bdcfbf}.pending{color:#dbbf93}
 .actions{display:flex;gap:8px}
-.open,.copy{min-height:48px;display:flex;align-items:center;justify-content:center;border-radius:6px;font-weight:700;font-size:.875rem;text-decoration:none}
+.open,.confirm{min-height:48px;display:flex;align-items:center;justify-content:center;border-radius:6px;font-weight:700;font-size:.875rem;text-decoration:none}
 .open{background:#f2f1ed;color:#151617;flex:1;padding:12px}
-.copy{background:transparent;border:1px solid #5b5e61;color:#eee;padding:12px;cursor:pointer}
-.url{font-size:.75rem;color:#acafb3;overflow-wrap:anywhere;line-height:1.6;display:block;margin-top:14px}
+.confirm{background:#ee4239;border:0;color:#fff;padding:12px;cursor:pointer}
 .checked{font-size:.75rem;color:#999ea1;margin:12px 0 0}
 .notice{font-size:.875rem;color:#dbbf93;background:#29241d;padding:13px 16px;border-radius:6px;line-height:1.6}
 .empty{padding:65px 20px;text-align:center;border:1px dashed #424548;border-radius:12px}
@@ -66,10 +66,9 @@ h1 span{display:block}
 .card-body{padding:20px}
 .photo{aspect-ratio:4/3}
 .actions{flex-wrap:wrap}
-.copy{min-width:88px}
+.confirm{min-width:160px}
 .update{font-size:.8rem;line-height:1.5}
 }
-@media(prefers-reduced-motion:no-preference){.open,.copy,.refresh{transition:filter .15s}
-.open:hover,.copy:hover,.refresh:hover{filter:brightness(1.15)}
+@media(prefers-reduced-motion:no-preference){.open,.confirm,.refresh{transition:filter .15s}
+.open:hover,.confirm:hover,.refresh:hover{filter:brightness(1.15)}
 }
-
