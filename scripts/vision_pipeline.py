@@ -72,11 +72,12 @@ def run():
     cache=json.loads(cache_path.read_text(encoding='utf-8')) if cache_path.exists() else {}
     rows={x['id']:x for group in ('listings','candidates','inactive_listings') for x in data.get(group,[])}
     stats={'run_at':datetime.now(timezone.utc).isoformat(),'candidates_found':0,'photos_loaded':0,'gemini_checked':0,'verified_matches':0,'errors':[]}
-    candidates=[x for x in rows.values() if x.get('active') is True and not x.get('visually_verified_3aj') and plausible(x)]
+    candidates=[x for x in rows.values() if x.get('active') is True and plausible(x)]
     stats['candidates_found']=len(candidates)
     with sync_playwright() as p:
         browser=p.chromium.launch(headless=True); page=browser.new_page(locale='de-DE')
-        for row in candidates[:MAX_CHECKS]:
+        fresh_checks=0
+        for row in candidates:
             try:
                 photos=extract_photos(page,row['listing_url']); stats['photos_loaded']+=len(photos)
                 hashes=[hashlib.sha256(body).hexdigest() for _,body,_ in photos]
@@ -84,7 +85,10 @@ def run():
                 if cached and cached.get('image_hashes')==hashes and cached.get('result'):
                     answer=cached['result']
                 else:
+                    if fresh_checks >= MAX_CHECKS:
+                        continue
                     answer=classify(api_key,photos); stats['gemini_checked']+=1
+                    fresh_checks+=1
                     cache[row['id']]={'listing_url':row['listing_url'],'image_hashes':hashes,'result':answer,'verified_at':datetime.now(timezone.utc).isoformat(),'model':MODEL}
                 yes=(answer['is_xt600z_3aj'] is True and answer['is_red_white'] is True and answer['is_complete_motorcycle'] is True and float(answer['confidence'])>=THRESHOLD)
                 row.update(images=[u for u,_,_ in photos],image_url=photos[0][0],visually_verified_3aj=yes,red_white=yes,review_status='approved' if yes else 'rejected',visual_verification={**answer,'model':MODEL,'verified_at':cache[row['id']]['verified_at'],'image_hashes':hashes})
