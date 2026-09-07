@@ -19,5 +19,6 @@ function render(){
  }
 }
 $('sort').addEventListener('change',render);
-fetch('data/listings.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error();return r.json();}).then(data=>{records=data.listings||[];$('updated').textContent='Обновлено: '+date(data.last_updated);if(data.run_status!=='ok'){$('notice').hidden=false;$('notice').textContent='Поиск выполнен не полностью. Показаны только объявления с успешной проверкой; новые кандидаты ожидают проверки фотографий.';}render();setInterval(render,60000);}).catch(()=>{$('updated').textContent='Не удалось загрузить данные';$('notice').hidden=false;$('notice').textContent='Попробуйте обновить страницу позже. Неподтверждённые данные не показаны.';});
+const dataUrl='https://imartyanov.github.io/xt600seach/data/listings.json?t='+Date.now();
+fetch(dataUrl,{cache:'no-store'}).then(r=>{if(!r.ok)throw Error();return r.json();}).then(data=>{records=data.listings||[];$('updated').textContent='Обновлено: '+date(data.last_updated);if(data.run_status!=='ok'){$('notice').hidden=false;$('notice').textContent='Поиск выполнен не полностью. Показаны только объявления с успешной проверкой; новые кандидаты ожидают проверки фотографий.';}render();setInterval(render,60000);}).catch(()=>{$('updated').textContent='Не удалось загрузить данные';$('notice').hidden=false;$('notice').textContent='Попробуйте обновить страницу позже. Неподтверждённые данные не показаны.';});
 
