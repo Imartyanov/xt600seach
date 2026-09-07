@@ -54,5 +54,16 @@ class UpdaterTests(unittest.TestCase):
    self.assertEqual(result['listings'][0]['price_eur'],6999)
    self.assertTrue(result['listings'][0]['active'])
    self.assertEqual(result['listings'][0]['check_status'],'error')
+ def test_known_search_result_reuses_cached_details(self):
+  with tempfile.TemporaryDirectory() as directory:
+   root=Path(directory);(root/'data').mkdir();(root/'config').mkdir()
+   old={'id':'3483708231','listing_url':URL,'active':True,'visually_verified_3aj':True,'price_eur':6999,'first_seen':'start','last_seen':'previous'}
+   (root/'data/listings.json').write_text(json.dumps({'last_updated':'previous','listings':[old]}))
+   (root/'data/visual_reviews.json').write_text('{}')
+   (root/'config/search.json').write_text(json.dumps({'seed_urls':[],'request_delay_seconds':0}))
+   with patch('update_listings.ROOT',root),patch('update_listings.search',return_value={URL}),patch('update_listings.fetch') as fetch_mock:
+    update(False)
+   fetch_mock.assert_not_called()
+   result=json.loads((root/'data/listings.json').read_text())
+   self.assertEqual(result['listings'][0]['check_status'],'cached')
 if __name__=='__main__':unittest.main()
-
