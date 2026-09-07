@@ -8,7 +8,7 @@ function render(){
  $('cards').replaceChildren(); const items=records.filter(eligible).sort((a,b)=>$('sort').value==='price'?(a.price_eur??Infinity)-(b.price_eur??Infinity):Date.parse(b.date_listed||b.first_seen)-Date.parse(a.date_listed||a.first_seen));
  let shown=items.length; $('count').textContent=shown; $('empty').hidden=shown>0;
  for(const x of items){
-  const card=el('article','card'),photo=el('div','photo'),img=el('img');img.src=x.image_url;img.alt=x.title+' — фото объявления '+x.id;img.loading='lazy';img.referrerPolicy='no-referrer';img.addEventListener('error',()=>{card.remove();$('count').textContent=--shown;$('empty').hidden=shown>0;});photo.append(img);
+  const card=el('article','card'),photo=el('div','photo'),img=el('img');img.src=x.image_url;img.alt=x.title+' — фото объявления '+x.id;img.loading='lazy';img.referrerPolicy='no-referrer';img.addEventListener('error',()=>{img.remove();photo.prepend(el('div','photo-unavailable','Фото временно недоступно'));});photo.append(img);
   const badges=el('div','badges');if(Date.now()-Date.parse(x.first_seen)<48*3600000)badges.append(el('span','badge','NEW'));
   if(x.previous_price_eur!=null && x.price_eur!=null && x.price_eur<x.previous_price_eur)badges.append(el('span','badge drop','−'+money(x.previous_price_eur-x.price_eur)));photo.append(badges);
   const body=el('div','card-body');body.append(el('p','price',x.price_eur==null?'Цена не указана':money(x.price_eur)),el('h3','',x.title),el('p','city',x.city||'Город не указан'));
