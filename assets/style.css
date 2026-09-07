@@ -24,6 +24,7 @@ select{border:1px solid #414346;background:#1c1e20;color:#ddd;padding:12px;borde
 .card{background:#1b1d1f;border:1px solid #36383a;border-radius:13px;overflow:hidden}
 .photo{position:relative;background:#242628;aspect-ratio:4/3}
 .photo img{width:100%;height:100%;object-fit:cover;display:block}
+.photo-unavailable{width:100%;height:100%;display:flex;align-items:center;justify-content:center;padding:24px;color:#aeb1b4;text-align:center}
 .badges{position:absolute;top:16px;left:16px;display:flex;gap:6px}
 .badge{background:#ee4239;color:white;padding:6px 9px;border-radius:4px;font-size:.75rem;font-weight:700}
 .drop{background:#c0eccf;color:#123a21}
