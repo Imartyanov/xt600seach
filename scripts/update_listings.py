@@ -38,6 +38,7 @@ def update(seed_only=False):
     errors, stamp = [], now()
     records = {x['id']: x for group in ('listings', 'inactive_listings', 'candidates') for x in data.get(group, [])}
     urls = set(config['seed_urls']) if seed_only else search(config, errors)
+    discovered_urls = set(urls)
     search_complete = not seed_only and not errors
     urls.update(x['listing_url'] for x in records.values() if x.get('listing_url'))
     by_id = {}
@@ -49,6 +50,14 @@ def update(seed_only=False):
         print(f'Checking {ad_id} ({index}/{len(by_id)})', flush=True)
         old = records.get(ad_id, {})
         try:
+            # A known URL present in today's search is still active. Reuse its parsed
+            # details and visual-review result; fetch the detail page only for new
+            # ads or when an old URL disappeared from search.
+            if not seed_only and old and url in discovered_urls and old.get('active') is True:
+                records[ad_id] = {**old, 'last_checked': stamp, 'last_seen': stamp,
+                                  'check_status': 'cached'}
+                succeeded += 1
+                continue
             time.sleep(config['request_delay_seconds'])
             fresh = parse(url, *fetch(url))
             if fresh['active']:
@@ -101,4 +110,3 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--seed-only', action='store_true', help='Check seed/history only; mark search incomplete')
     update(parser.parse_args().seed_only)
-
