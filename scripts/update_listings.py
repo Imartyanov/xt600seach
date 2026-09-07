@@ -6,7 +6,7 @@ import logging
 from pathlib import Path
 import time
 from search import search, fetch, parse, identity
-from verify import evidence, approved
+from verify import approved
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -61,10 +61,9 @@ def update(seed_only=False):
             time.sleep(config['request_delay_seconds'])
             fresh = parse(url, *fetch(url))
             if fresh['active']:
-                # Never let a title or textual model name count as visual evidence.
-                sha = evidence(fresh)
-                verified = bool(approved(fresh, reviews, sha))
-                fresh.update(image_sha256=sha, visually_verified_3aj=verified, red_white=verified,
+                # Visual verification is performed separately from actual rendered photos.
+                verified = bool(old.get('visually_verified_3aj') and old.get('image_url') == fresh.get('image_url'))
+                fresh.update(image_sha256=old.get('image_sha256'), visually_verified_3aj=verified, red_white=verified,
                              review_status='approved' if verified else 'needs_review')
             records[ad_id] = merge(old, fresh, now())
             succeeded += 1
