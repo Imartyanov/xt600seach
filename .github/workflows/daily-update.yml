@@ -43,18 +43,22 @@ jobs:
       - if: steps.clock.outputs.run == 'true'
         run: pip install -r requirements.txt
       - if: steps.clock.outputs.run == 'true'
+        run: playwright install --with-deps chromium
+      - if: steps.clock.outputs.run == 'true'
         run: python -m unittest discover -s tests -v
       - name: Update listings
         if: steps.clock.outputs.run == 'true'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python scripts/update_listings.py
-          python scripts/apply_reviews.py
+          if [ -n "$GEMINI_API_KEY" ]; then python scripts/vision_pipeline.py; else echo "GEMINI_API_KEY is not configured; preserving existing verified results"; fi
       - name: Save history
         if: steps.clock.outputs.run == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/listings.json
+          git add data/listings.json data/vision_cache.json data/last-run.json
           if ! git diff --cached --quiet; then
             git commit -m 'Update verified Yamaha listings'
             git pull --rebase origin main
@@ -71,4 +75,3 @@ jobs:
       - if: steps.clock.outputs.run == 'true'
         id: deploy
         uses: actions/deploy-pages@v4
-
