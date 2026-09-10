@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T09:43:51.684256+00:00",
-  "last_attempt": "2026-09-09T09:43:51.684256+00:00",
+  "last_updated": "2026-09-10T09:43:25.218547+00:00",
+  "last_attempt": "2026-09-10T09:43:25.218547+00:00",
   "listings": [
     {
       "id": "3483708231",
@@ -21,9 +21,9 @@
       "red_white": true,
       "review_status": "approved",
       "first_seen": "2026-09-06T17:15:49.783174+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -51,9 +51,9 @@
       "red_white": true,
       "review_status": "approved",
       "first_seen": "2026-09-06T17:59:34.143068+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -81,9 +81,9 @@
       "red_white": true,
       "review_status": "approved",
       "first_seen": "2026-09-06T18:04:13.794525+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -111,9 +111,9 @@
       "red_white": true,
       "review_status": "approved",
       "first_seen": "2026-09-06T17:58:41.473055+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -144,9 +144,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:57:47.657432+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -174,9 +174,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:57:50.258395+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -204,9 +204,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:57:53.099261+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -234,9 +234,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:57:56.252405+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -264,9 +264,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:57:59.115779+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -280,7 +280,7 @@
       "listing_url": "https://www.kleinanzeigen.de/s-anzeige/suche-yamaha-t-n-r-1vj-oder-3aj-xt600-in-blau-gelb/3368071135-305-7659",
       "active": true,
       "first_seen": "2026-09-06T17:56:41.619104+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
       "visually_verified_3aj": false,
       "red_white": false,
@@ -296,7 +296,7 @@
       "description": "Suche Yamaha Ténéré 1VJ oder 3AJ XT600 in blau/gelb. Zustand sollte gut sein. Kilometerstand so niedrig wie möglich ;) Gerne auch mit bereits überholtem Motor. Bei 1VJ: Zu einem 3AJ-Umbau sag ich auch nicht \"nein\" ;) Bitte keine Restaurationen oder Restaurationsobjekte. Bitte auch keine \"Projektaufgaben\" Freue mich über Angebote :)",
       "excluded_by_text": true,
       "image_sha256": null,
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -324,9 +324,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:04.464655+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -354,9 +354,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:07.242917+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -384,9 +384,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:10.060360+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -414,9 +414,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:12.769819+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -444,9 +444,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:15.499382+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -474,9 +474,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:18.239726+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -504,9 +504,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:21.047116+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -534,9 +534,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:24.123683+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -564,9 +564,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:27.185709+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -594,9 +594,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:30.103321+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -624,9 +624,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:33.084494+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -654,9 +654,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:36.030905+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -684,9 +684,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:38.750967+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -714,9 +714,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:44.684090+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -744,9 +744,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:47.701979+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -760,7 +760,7 @@
       "listing_url": "https://www.kleinanzeigen.de/s-anzeige/xt1200z-super-tenere-11-600km/3471826587-305-7966",
       "active": true,
       "first_seen": "2026-09-06T17:56:41.619104+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
       "visually_verified_3aj": false,
       "red_white": false,
@@ -776,7 +776,7 @@
       "description": "Zum Verkauf steht meine Yamaha XT1200Z Super Ténéré First Edition aus dem Modelljahr 2010. Ich bin seit 2011 der Besitzer des Motorrads. Der Verkauf erfolgt ausschließlich aus gesundheitlichen Gründen. Die Maschine hat erst 11.600 km gelaufen. Der niedrige Kilometerstand ist durch das lückenlos abgestempelte Serviceheft mit fünf dokumentierten Inspektionen sowie die TÜV-Unterlagen nachvollziehbar. Erst kürzlich wurde nochmals umfangreich investiert, sodass für den neuen Besitzer zunächst keine größeren Wartungsarbeiten anstehen. Kürzlich durchgeführt: * Große Inspektion * Motoröl inkl. Ölfilter erneuert * Endantriebsöl (Kardanöl) erneuert * Bremsflüssigkeit erneuert * Luftfilter erneuert * Kompletter Gabelservice mit neuen Dichtungen und frischem Gabelöl * Neue Batterie * Neue Reifen vorne und hinten (Pirelli Scorpion Trail III) * TÜV neu bis April 2028 Alle Arbeiten sind durch Rechnungen und das Serviceheft belegbar. First Edition – umfangreiche Ausstattung Es handelt sich um die First Edition der Super Ténéré aus dem Einführungsjahr 2010. Diese Ausführung wurde bereits mit einer umfangreichen Reiseausstattung ausgeliefert. Zur Ausstattung gehören unter anderem: * Original Yamaha Aluminium-Seitenkoffer * Motorschutz / Unterfahrschutz * Handprotektoren * Hauptständer * höhenverstellbare Sitzbank * verstellbare Windschutzscheibe * Kardanantrieb * ABS * Traktionskontrolle Leistung Die Leistung ist ordnungsgemäß auf 94 PS eingetragen. Die Reduzierung erfolgt über einen eingetragenen Gaswegbegrenzer und kann bei Bedarf wieder auf die serienmäßigen 110 PS zurückgerüstet werden. Die Super Ténéré gilt als äußerst zuverlässiges Reiseenduro-Motorrad mit robustem Zweizylindermotor und wartungsarmem Kardanantrieb. Besichtigung nach Absprache möglich.",
       "excluded_by_text": false,
       "image_sha256": null,
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -804,9 +804,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:53.285720+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -834,9 +834,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:56.683937+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -864,9 +864,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:58:59.413513+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -894,9 +894,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:59:02.131931+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -924,9 +924,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:59:04.986002+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -954,9 +954,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:59:07.667738+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -984,9 +984,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T17:59:10.392632+00:00",
-      "last_checked": "2026-09-09T09:42:47.064040+00:00",
+      "last_checked": "2026-09-10T09:42:12.123250+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:42:47.064040+00:00",
+      "last_seen": "2026-09-10T09:42:12.123250+00:00",
       "previous_price_eur": 1100,
       "price_history": [
         {
@@ -1019,9 +1019,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T17:59:13.087544+00:00",
-      "last_checked": "2026-09-09T09:42:49.430941+00:00",
+      "last_checked": "2026-09-10T09:42:14.695000+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:42:49.430941+00:00",
+      "last_seen": "2026-09-10T09:42:14.695000+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1049,9 +1049,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T17:59:15.767482+00:00",
-      "last_checked": "2026-09-09T09:42:51.770332+00:00",
+      "last_checked": "2026-09-10T09:42:17.186476+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:42:51.770332+00:00",
+      "last_seen": "2026-09-10T09:42:17.186476+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1065,7 +1065,7 @@
       "listing_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600/3483409150-305-4435",
       "active": true,
       "first_seen": "2026-09-06T17:56:41.619104+00:00",
-      "last_checked": "2026-09-09T09:42:54.143940+00:00",
+      "last_checked": "2026-09-10T09:42:19.648544+00:00",
       "check_status": "ok",
       "title": "Yamaha XT 600",
       "price_eur": null,
@@ -1081,7 +1081,7 @@
       "visually_verified_3aj": false,
       "red_white": false,
       "review_status": "needs_review",
-      "last_seen": "2026-09-09T09:42:54.143940+00:00",
+      "last_seen": "2026-09-10T09:42:19.648544+00:00",
       "previous_price_eur": null,
       "price_history": []
     },
@@ -1102,11 +1102,11 @@
       "image_sha256": "45ad6c4e342a72f5c0487f5f9a25365e0bbdd94476e1de986a14716e59419ba2",
       "visually_verified_3aj": false,
       "red_white": false,
-      "review_status": "rejected",
+      "review_status": "needs_review",
       "first_seen": "2026-09-06T17:59:23.526920+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
-      "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:42:22.098258+00:00",
+      "check_status": "ok",
+      "last_seen": "2026-09-10T09:42:22.098258+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1132,11 +1132,11 @@
       "image_sha256": "30ff67baa3132c5dd5827c0f1a2ecd497c546d296b137f93bb09b8c0fa6602cc",
       "visually_verified_3aj": false,
       "red_white": false,
-      "review_status": "rejected",
+      "review_status": "needs_review",
       "first_seen": "2026-09-06T17:59:26.194478+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
-      "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:42:24.544718+00:00",
+      "check_status": "ok",
+      "last_seen": "2026-09-10T09:42:24.544718+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1162,11 +1162,11 @@
       "image_sha256": "e425da596e5ddedf9dfccb934b26e5b15f06e15f1ebc55b6ebde9ff45ddd5bf3",
       "visually_verified_3aj": false,
       "red_white": false,
-      "review_status": "rejected",
+      "review_status": "needs_review",
       "first_seen": "2026-09-06T17:59:28.870991+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
-      "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:42:27.038297+00:00",
+      "check_status": "ok",
+      "last_seen": "2026-09-10T09:42:27.038297+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1194,9 +1194,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:59:31.482754+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1224,9 +1224,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T17:59:36.821071+00:00",
-      "last_checked": "2026-09-09T09:42:56.502167+00:00",
+      "last_checked": "2026-09-10T09:42:29.501634+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:42:56.502167+00:00",
+      "last_seen": "2026-09-10T09:42:29.501634+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1252,11 +1252,11 @@
       "image_sha256": "0a1f2169cb07a19d898b3d8f65a3d7effdfbef27ddfc774868a20f7c66e2660b",
       "visually_verified_3aj": false,
       "red_white": false,
-      "review_status": "rejected",
+      "review_status": "needs_review",
       "first_seen": "2026-09-06T17:59:39.442300+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
-      "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:42:32.112771+00:00",
+      "check_status": "ok",
+      "last_seen": "2026-09-10T09:42:32.112771+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1282,11 +1282,11 @@
       "image_sha256": "fae1604202893285edeabf21f492a891153db7ae20e32799277b4fa22c46a3bc",
       "visually_verified_3aj": false,
       "red_white": false,
-      "review_status": "rejected",
+      "review_status": "needs_review",
       "first_seen": "2026-09-06T17:59:42.218689+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
-      "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:42:34.590061+00:00",
+      "check_status": "ok",
+      "last_seen": "2026-09-10T09:42:34.590061+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1314,9 +1314,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:59:45.070231+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1344,9 +1344,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:59:47.995017+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1374,9 +1374,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:59:50.830954+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1404,9 +1404,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:59:53.761544+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1434,9 +1434,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:59:56.723268+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1464,9 +1464,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T17:59:59.435995+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1494,9 +1494,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:02.324651+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1524,9 +1524,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:05.157539+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1554,9 +1554,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:07.941412+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1584,9 +1584,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:11.141193+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1614,9 +1614,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:14.058344+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1630,7 +1630,7 @@
       "listing_url": "https://www.kleinanzeigen.de/s-anzeige/xt-600-tenere-1vj/3487680249-305-8918",
       "active": true,
       "first_seen": "2026-09-06T17:56:41.619104+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
       "visually_verified_3aj": false,
       "red_white": false,
@@ -1646,7 +1646,7 @@
       "description": "Biete das auf den Bildern zu sehende Motorrad an. TÜV und Bereifung neu. Rahmen wurde vor vielen Jahren KU beschichtet. Kofferträger von Brevette, der mittlerweile selten gewordene Frontgepäckträger und breitere Fußrasten. Die Lufteinlässe unten sind geschlossen und nun oben hinter der Sitzbank zur besseren Kühlung des Motors. Teilekonvolut siehe Bilder. Es kann sein dass ich an Teilen noch was finde, das wird dann dazugegeben. Das Motorrad ist fast 40Jahre alt, somit keine Garantie mehr. Es ist kein Notverkauf. Sollte es nicht zu dem von mir angepeilten Preis weggehen, bleibt es bei mir. Preisverhandlung ausschließlich vor Ort.",
       "excluded_by_text": false,
       "image_sha256": null,
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1674,9 +1674,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:20.131008+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1704,9 +1704,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:23.016371+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1734,9 +1734,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:25.751678+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1764,9 +1764,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:28.687425+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1794,9 +1794,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:31.627517+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1824,9 +1824,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:34.453522+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1854,9 +1854,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:37.215960+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1884,9 +1884,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:40.169943+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1914,9 +1914,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:42.987424+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1944,9 +1944,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:45.695094+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -1974,9 +1974,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:48.593482+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2004,9 +2004,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:51.265249+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2034,9 +2034,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:53.996935+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2064,9 +2064,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:56.758188+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2094,9 +2094,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:00:59.530978+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2124,9 +2124,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:02.303969+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2154,9 +2154,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:05.360091+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2184,9 +2184,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:08.090023+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2214,9 +2214,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:10.821689+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2244,9 +2244,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:13.707241+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2274,9 +2274,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T18:01:16.534464+00:00",
-      "last_checked": "2026-09-09T09:43:01.237937+00:00",
+      "last_checked": "2026-09-10T09:42:39.614359+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:01.237937+00:00",
+      "last_seen": "2026-09-10T09:42:39.614359+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2304,9 +2304,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:19.358822+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2334,9 +2334,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:22.129897+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2364,9 +2364,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:24.873385+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2394,9 +2394,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:27.590917+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2424,9 +2424,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:30.515715+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2454,9 +2454,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:33.263750+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2484,9 +2484,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T18:01:36.024234+00:00",
-      "last_checked": "2026-09-09T09:43:03.607861+00:00",
+      "last_checked": "2026-09-10T09:42:42.140344+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:03.607861+00:00",
+      "last_seen": "2026-09-10T09:42:42.140344+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2514,9 +2514,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:38.802953+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2544,9 +2544,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:41.505683+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2574,9 +2574,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:44.327079+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2604,9 +2604,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:47.181656+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2634,9 +2634,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T18:01:49.903514+00:00",
-      "last_checked": "2026-09-09T09:43:05.977791+00:00",
+      "last_checked": "2026-09-10T09:42:44.611371+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:05.977791+00:00",
+      "last_seen": "2026-09-10T09:42:44.611371+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2664,9 +2664,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:52.541009+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2694,9 +2694,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:55.350231+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2724,9 +2724,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:01:58.227479+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2754,9 +2754,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:02:01.029785+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2784,9 +2784,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:02:03.853483+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2800,7 +2800,7 @@
       "listing_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600/3496182537-305-8941",
       "active": true,
       "first_seen": "2026-09-06T17:56:41.619104+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
       "title": "Yamaha XT 600",
       "price_eur": null,
@@ -2816,7 +2816,7 @@
       "visually_verified_3aj": false,
       "red_white": false,
       "review_status": "needs_review",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": []
     },
@@ -2839,9 +2839,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:02:09.003745+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2855,8 +2855,8 @@
       "listing_url": "https://www.kleinanzeigen.de/s-anzeige/suche-yamaha-xt600-500-250-etc-jeder-art-club-alte-mopeds/3496311394-305-8659",
       "active": true,
       "first_seen": "2026-09-06T17:56:41.619104+00:00",
-      "last_checked": "2026-09-09T09:43:08.761799+00:00",
-      "check_status": "ok",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
+      "check_status": "cached",
       "visually_verified_3aj": false,
       "red_white": false,
       "review_status": "needs_review",
@@ -2871,7 +2871,7 @@
       "description": "Hallo zusammen, Wir sind ein club und sind stetig am suchen von Yamaha‘s. Egal ob Tenere 1Vj 3AJ oder eine normale XT. Alles rund um älteren Mopeds ist Interesant da wir viel schrauben und immer wieder restaurieren. Preis richtet sich nach dem Zustand aber es sollte für beide Seiten fair sein. Bitte melden :)",
       "excluded_by_text": true,
       "image_sha256": null,
-      "last_seen": "2026-09-09T09:43:08.761799+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2899,9 +2899,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:02:14.419739+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2929,9 +2929,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:02:17.217593+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2959,9 +2959,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:02:20.015745+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -2975,7 +2975,7 @@
       "listing_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600-3-tb/3496768476-305-993",
       "active": true,
       "first_seen": "2026-09-06T17:56:41.619104+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
       "visually_verified_3aj": false,
       "red_white": false,
@@ -2991,7 +2991,7 @@
       "description": "Verkaufe die XT da sie als Zweitmotorrad viel zu selten gefahren wird. EZ 1994. Sie ist seit 2020 in meinem Besitz und gerade jetzt im August wieder ohne Mängel durch den TÜV. Maschine hat einen Kickstarter. Ich habe erneuert komplette Auspuffanlage , Kette, Ritzel und Kettenrad, Reifen und Bremsbeläge. Gebe noch die alte komplette Auspuffanlage und Alt- sowie Neuteile dazu. Auch ein Werkstatthandbuch ist dabei. Verkauf von privat unter Ausschluss von Garantie, Gewährleistung und Rücknahme!",
       "excluded_by_text": false,
       "image_sha256": null,
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3019,9 +3019,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:02:25.609683+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3035,7 +3035,7 @@
       "listing_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600-e-3tb-bj-1994-30-400-km-tuev-neu-reifen-neu/3497207174-305-1496",
       "active": true,
       "first_seen": "2026-09-06T17:56:41.619104+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
       "visually_verified_3aj": false,
       "red_white": false,
@@ -3051,7 +3051,7 @@
       "description": "Zum Verkauf steht meine Yamaha XT 600 3TB aus dem Baujahr 1994. Die XT hat aktuell 30.400 km gelaufen und ist technisch in Ordnung. Sie fährt, läuft und startet zuverlässig. TÜV wurde gerade neu gemacht, außerdem sind die Reifen noch fast neu. **Daten:** * Yamaha XT 600 3TB * Baujahr 1994 * 30.400 km * 600 ccm * E-Starter * TÜV neu * Reifen fast neu * technisch funktionsfähig und fahrbereit **Zustand:** Die XT ist mittlerweile über 32 Jahre alt und befindet sich optisch entsprechend in einem gebrauchten, ehrlichen Originalzustand. Der Lack ist nicht mehr perfekt und an der Verkleidung gibt es einige Risse bzw. Gebrauchsspuren. Wer eine perfekte Museumsmaschine sucht, ist hier sicherlich falsch. Wer dagegen eine robuste, klassische XT 600 sucht, die technisch funktioniert und ohne anstehenden TÜV- oder Reifenkauf gefahren werden kann, sollte sie sich gerne anschauen. Die Maschine wird ausdrücklich im alters- und gebrauchsentsprechenden Zustand verkauft. Besichtigung und Probelauf nach Absprache möglich. Privatverkauf unter Ausschluss der Sachmängelhaftung. Keine Garantie, Gewährleistung oder Rücknahme.",
       "excluded_by_text": false,
       "image_sha256": null,
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3079,9 +3079,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:02:31.385822+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3109,9 +3109,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:02:34.198364+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3139,9 +3139,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T18:02:36.930811+00:00",
-      "last_checked": "2026-09-09T09:43:13.476865+00:00",
+      "last_checked": "2026-09-10T09:42:49.720354+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:13.476865+00:00",
+      "last_seen": "2026-09-10T09:42:49.720354+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3169,9 +3169,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:02:39.717065+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3199,9 +3199,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:02:42.533125+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3229,9 +3229,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:02:45.411552+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3259,9 +3259,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:02:48.038815+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3289,9 +3289,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T18:02:50.612982+00:00",
-      "last_checked": "2026-09-09T09:43:15.849421+00:00",
+      "last_checked": "2026-09-10T09:42:52.743381+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:15.849421+00:00",
+      "last_seen": "2026-09-10T09:42:52.743381+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3319,9 +3319,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T18:02:53.315483+00:00",
-      "last_checked": "2026-09-09T09:43:18.209691+00:00",
+      "last_checked": "2026-09-10T09:42:55.209448+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:18.209691+00:00",
+      "last_seen": "2026-09-10T09:42:55.209448+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3349,9 +3349,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:02:55.979879+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3379,9 +3379,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:02:58.647073+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3409,9 +3409,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:03:01.294973+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3439,9 +3439,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:03:04.087209+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3455,7 +3455,7 @@
       "listing_url": "https://www.kleinanzeigen.de/s-anzeige/motorrad-yamaha-xt-600-e/3499622543-305-1681",
       "active": true,
       "first_seen": "2026-09-06T17:56:41.619104+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
       "visually_verified_3aj": false,
       "red_white": false,
@@ -3471,7 +3471,7 @@
       "description": "Yamaha XT 600 E Sehr gepflegt ,kein Gelände, Insp. neu, Batterie neu, 2 organale Sitzbank vorhanden",
       "excluded_by_text": false,
       "image_sha256": null,
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3499,9 +3499,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:03:09.451283+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3529,9 +3529,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:03:12.275285+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3559,9 +3559,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:03:15.000109+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3589,9 +3589,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:03:17.882241+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3605,7 +3605,7 @@
       "listing_url": "https://www.kleinanzeigen.de/s-anzeige/suche-yamaha-xt-600-34l-43f-1vj-2kf-3aj-3tb-zustand-egal-/3500555897-305-2910",
       "active": true,
       "first_seen": "2026-09-06T17:56:41.619104+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
       "visually_verified_3aj": false,
       "red_white": false,
@@ -3621,7 +3621,7 @@
       "description": "Hallo, ich bin auf der Suche nach einer Yamaha XT 600. Es ist egal in welchem Zustand (nicht fahrtüchtig, Unfallfahrzeug, Garagenfund usw.) sich die XT befindet oder aus welchem Jahr sie stammt. Bitte einfach alles anbieten. Vielen Dank im Voraus",
       "excluded_by_text": true,
       "image_sha256": null,
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": []
     },
@@ -3644,9 +3644,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:03:23.339249+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3674,9 +3674,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T18:03:26.191574+00:00",
-      "last_checked": "2026-09-09T09:43:22.906433+00:00",
+      "last_checked": "2026-09-10T09:43:00.170611+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:22.906433+00:00",
+      "last_seen": "2026-09-10T09:43:00.170611+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3690,7 +3690,7 @@
       "listing_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt600/3501292030-305-13384",
       "active": true,
       "first_seen": "2026-09-06T17:56:41.619104+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
       "title": "Yamaha XT600",
       "price_eur": null,
@@ -3706,7 +3706,7 @@
       "visually_verified_3aj": false,
       "red_white": false,
       "review_status": "needs_review",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": []
     },
@@ -3729,9 +3729,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:03:31.728869+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3759,9 +3759,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:03:34.583744+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3789,9 +3789,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:03:37.410669+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3819,9 +3819,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:03:40.226000+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3849,9 +3849,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:03:42.959700+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3879,9 +3879,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:03:45.948953+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3909,9 +3909,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:03:48.764746+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3939,9 +3939,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:03:51.831048+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3969,9 +3969,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:03:54.907321+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -3999,9 +3999,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:03:58.028251+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4029,9 +4029,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:04:01.254392+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4059,9 +4059,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:04:04.225760+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4089,9 +4089,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:04:07.337450+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4119,9 +4119,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T18:04:10.627092+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4149,9 +4149,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:04:16.716829+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": 2250,
       "price_history": [
         {
@@ -4184,9 +4184,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:04:19.622709+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4214,9 +4214,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:04:22.620390+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4244,9 +4244,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:04:25.735660+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4274,9 +4274,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T18:04:28.697822+00:00",
-      "last_checked": "2026-09-09T09:43:25.447320+00:00",
+      "last_checked": "2026-09-10T09:43:02.733425+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:25.447320+00:00",
+      "last_seen": "2026-09-10T09:43:02.733425+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4304,9 +4304,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:04:31.515009+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4334,9 +4334,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T18:04:34.217920+00:00",
-      "last_checked": "2026-09-09T09:43:27.868073+00:00",
+      "last_checked": "2026-09-10T09:43:05.291720+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:27.868073+00:00",
+      "last_seen": "2026-09-10T09:43:05.291720+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4364,9 +4364,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:04:37.000589+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4380,7 +4380,7 @@
       "listing_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-tenere-600/3503674594-305-5883",
       "active": true,
       "first_seen": "2026-09-06T17:56:41.619104+00:00",
-      "last_checked": "2026-09-09T09:43:30.401392+00:00",
+      "last_checked": "2026-09-10T09:43:07.750456+00:00",
       "check_status": "ok",
       "visually_verified_3aj": false,
       "red_white": false,
@@ -4396,7 +4396,7 @@
       "description": "Löse meine kleine Endurosammlung auf. Tenere 1 VJ Das Motorrad wurde von einem in der Szene (Tenere Forum) bekannten Yamaha Spezialisten aufgebaut . Yamaha Werkstattmeister/Ing. Das Motor war neu und wurde zusätzlich technisch thermisch standfest gemacht. Zusätzlich wurde von RMS Guhr eine Sonderanfertigung mit Koffersatz , Motorschutz mit Werkzeugfach angefertigt. Baubreite 77cm! Durchgehendes Fach im Motorschutz für Montiereisen. Das Motorrad ist fertig für eine Weltreise....ich hatte viele Teneres...jedoch keine die so perfekt läuft wie diese. Bei einer realistischen Kostenaufstellung kommt ein unrealistischer Verkaufspreis zustande. Der Festpreis beträgt nicht einmal die Hälfte davon. Der Kofferträger und der Motorschutz mit 1750 Euro sind da noch gar nicht dabei. Natürlivh sind noch der originale Motorschutz und diverse Ersatzteile dabei und ein sehr guter Ersatztank. Bei ernsthaften Interesse gerne mehr Infos über das Motorrad Ps...wegen den vielen Rückfragen Das Motorrad wurde komolett neuaufgebaut mit einem nagelneuen Motor von Yamaha mit der letzten und haltbarsten Ausbaustufe, zusätzlich Luftfilter Umbau und diverse Feinrbeiten.",
       "excluded_by_text": false,
       "image_sha256": null,
-      "last_seen": "2026-09-09T09:43:30.401392+00:00",
+      "last_seen": "2026-09-10T09:43:07.750456+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4424,9 +4424,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:04:42.866610+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4454,9 +4454,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:04:45.885159+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4484,9 +4484,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:04:48.813004+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4500,7 +4500,7 @@
       "listing_url": "https://www.kleinanzeigen.de/s-anzeige/suche-suzuki-dr650-dr800-big-xt-600-xtz-transalp/3504797674-305-1182",
       "active": true,
       "first_seen": "2026-09-06T17:56:41.619104+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
       "visually_verified_3aj": false,
       "red_white": false,
@@ -4516,7 +4516,7 @@
       "description": "suche Suzuki DR650 DR800 BIG XT 600 XTZ Transalp egal Zustand egal Zustand Motorschaden defekt unfall defekt Bitte senden Sie Angebote WhatsApp +4915 16382 0574 Barzahlung vor Ort Abholung in den selben tag Möglich Kauft ohne Garantie Angebote per E-Mail versenden Ganz Deutschland Moto-ankauf",
       "excluded_by_text": true,
       "image_sha256": null,
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": []
     },
@@ -4539,9 +4539,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T18:04:53.996174+00:00",
-      "last_checked": "2026-09-09T09:43:32.742866+00:00",
-      "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:32.742866+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
+      "check_status": "cached",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4569,9 +4569,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:04:56.979279+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4599,9 +4599,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T18:04:59.926538+00:00",
-      "last_checked": "2026-09-09T09:43:35.104954+00:00",
+      "last_checked": "2026-09-10T09:43:10.241849+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:35.104954+00:00",
+      "last_seen": "2026-09-10T09:43:10.241849+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4629,9 +4629,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:05:02.717145+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4659,9 +4659,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:05:05.630323+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4689,9 +4689,9 @@
       "red_white": false,
       "review_status": "rejected",
       "first_seen": "2026-09-06T18:05:08.431336+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4719,9 +4719,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T20:33:59.298401+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4749,9 +4749,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T21:39:27.494256+00:00",
-      "last_checked": "2026-09-09T09:42:42.148607+00:00",
+      "last_checked": "2026-09-10T09:42:04.436771+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:42:42.148607+00:00",
+      "last_seen": "2026-09-10T09:42:04.436771+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4779,9 +4779,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T21:41:50.510372+00:00",
-      "last_checked": "2026-09-09T09:42:58.896874+00:00",
+      "last_checked": "2026-09-10T09:42:37.062395+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:42:58.896874+00:00",
+      "last_seen": "2026-09-10T09:42:37.062395+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4809,9 +4809,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-06T21:43:35.770683+00:00",
-      "last_checked": "2026-09-09T09:43:11.125255+00:00",
+      "last_checked": "2026-09-10T09:42:47.077359+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:11.125255+00:00",
+      "last_seen": "2026-09-10T09:42:47.077359+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4839,9 +4839,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-07T10:16:06.508027+00:00",
-      "last_checked": "2026-09-09T09:42:44.691847+00:00",
+      "last_checked": "2026-09-10T09:42:09.427989+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:42:44.691847+00:00",
+      "last_seen": "2026-09-10T09:42:09.427989+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4855,7 +4855,7 @@
       "listing_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600-e-21-ltr-grosser-tank-enduro-top/3505879026-305-7792",
       "active": true,
       "first_seen": "2026-09-07T10:13:40.850092+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
       "visually_verified_3aj": false,
       "red_white": false,
@@ -4871,7 +4871,7 @@
       "description": "Verkaufe meine tolle zuverlässige Reiseenduro Yamaha XT 600 E im sehr guten Zustand. Alles io. Springt sofort an und läuft super. Es ist noch volgendes extra. Lenker von Tomaselli extra größerer Tank 21 ltr Acerbic Hauptständer Coolen Auspuff. Reifen sind auch top. Decals sind auch noch da Neue Batterie, Inspektion wurde im Frühjahr gemacht. Papiere sind da und 2 Schlüßel. Also Jungs, Aufsteigen losfahren. Es ist ein Festpreis, kein VB.",
       "excluded_by_text": false,
       "image_sha256": null,
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4899,9 +4899,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-07T18:37:55.928019+00:00",
-      "last_checked": "2026-09-09T09:43:20.539355+00:00",
+      "last_checked": "2026-09-10T09:42:57.674732+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:20.539355+00:00",
+      "last_seen": "2026-09-10T09:42:57.674732+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4929,9 +4929,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-07T18:39:48.201228+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4945,7 +4945,7 @@
       "listing_url": "https://www.kleinanzeigen.de/s-anzeige/xt600-e-originale-7130km-tuev-neu-diverse-teile-neu-1-hand-old/3506200467-305-9210",
       "active": true,
       "first_seen": "2026-09-07T18:31:58.825393+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
       "visually_verified_3aj": false,
       "red_white": false,
@@ -4961,7 +4961,7 @@
       "description": "XT600 E, 3TB. Die XT habe ich vom Erstbesitzer (2.Halter, siehe Brief, war seine Frau) gekauft weil mir der Kilometerstand absolut gefiel. Sie war ca.14 Jahre fachgerecht eingemottet. Jetzt hat sie neue Reifen incl. Schläuchen und Felgenbädern, neue Bremsbeläge, Stahlflex Bremsleitungen, neue Batterie, neues Öl und Filter, Hupe und TÜV neu. Mit Kurzzeitkennzeichen hab ich sie 300 Kilometer gefahren. Läuft und schnurrt wie ein Neufahrzeug. Alles in allem hat sie mich jetzt 5200€ gekostet und mehr will ich auch nicht dafür. Meiner Frau will sie leider doch nicht. Bei Fragen gerne anrufen. Das Fahrzeug ist abgemeldet. Von dem her ist eine Probefahrt nur bedingt möglich. Das Fahrzeug ist absolut unverbastelt (hat noch die langen Kotflügel, kein abgesägter Auspuff e.t.c.) und ist H-Kennzeichen tauglich.",
       "excluded_by_text": false,
       "image_sha256": null,
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -4989,9 +4989,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-07T18:39:54.061131+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -5019,9 +5019,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-07T18:39:56.660606+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -5049,9 +5049,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-08T09:40:30.920335+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": []
     },
@@ -5060,8 +5060,8 @@
       "listing_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600-e/3506667057-305-1303",
       "active": true,
       "first_seen": "2026-09-08T09:38:35.978511+00:00",
-      "last_checked": "2026-09-09T09:43:37.461417+00:00",
-      "check_status": "ok",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
+      "check_status": "cached",
       "title": "Yamaha XT 600 E",
       "price_eur": 1650,
       "city": "48336 Nordrhein-Westfalen - Sassenberg",
@@ -5076,7 +5076,7 @@
       "visually_verified_3aj": false,
       "red_white": false,
       "review_status": "needs_review",
-      "last_seen": "2026-09-09T09:43:37.461417+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -5104,9 +5104,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-08T09:40:35.569839+00:00",
-      "last_checked": "2026-09-09T09:41:40.808432+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
       "check_status": "cached",
-      "last_seen": "2026-09-09T09:41:40.808432+00:00",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -5134,9 +5134,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-08T09:40:38.198669+00:00",
-      "last_checked": "2026-09-09T09:43:39.841928+00:00",
+      "last_checked": "2026-09-10T09:43:12.744740+00:00",
       "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:39.841928+00:00",
+      "last_seen": "2026-09-10T09:43:12.744740+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -5164,9 +5164,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-09T09:43:42.178332+00:00",
-      "last_checked": "2026-09-09T09:43:42.178332+00:00",
-      "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:42.178332+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
+      "check_status": "cached",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -5194,9 +5194,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-09T09:43:44.525526+00:00",
-      "last_checked": "2026-09-09T09:43:44.525526+00:00",
-      "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:44.525526+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
+      "check_status": "cached",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -5224,9 +5224,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-09T09:43:46.898457+00:00",
-      "last_checked": "2026-09-09T09:43:46.898457+00:00",
-      "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:46.898457+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
+      "check_status": "cached",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -5254,9 +5254,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-09T09:43:49.279523+00:00",
-      "last_checked": "2026-09-09T09:43:49.279523+00:00",
-      "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:49.279523+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
+      "check_status": "cached",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -5284,9 +5284,9 @@
       "red_white": false,
       "review_status": "needs_review",
       "first_seen": "2026-09-09T09:43:51.684218+00:00",
-      "last_checked": "2026-09-09T09:43:51.684218+00:00",
-      "check_status": "ok",
-      "last_seen": "2026-09-09T09:43:51.684218+00:00",
+      "last_checked": "2026-09-10T09:40:42.005993+00:00",
+      "check_status": "cached",
+      "last_seen": "2026-09-10T09:40:42.005993+00:00",
       "previous_price_eur": null,
       "price_history": [
         {
@@ -5294,12 +5294,252 @@
           "price_eur": 2150
         }
       ]
+    },
+    {
+      "id": "2229068725",
+      "title": "Yamaha XT 600E - auch Ankauf unter www.motorradx.de",
+      "price_eur": 1800,
+      "city": "49565 Niedersachsen - Bramsche",
+      "registration": "1990-08",
+      "mileage_km": 59999,
+      "date_listed": "2026-09-10",
+      "listing_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600e-auch-ankauf-unter-www-motorradx-de/2229068725-305-2625",
+      "app_share_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600e-auch-ankauf-unter-www-motorradx-de/2229068725-305-2625?utm_source=copyToPasteboard&utm_campaign=socialbuttons&utm_medium=social&utm_content=app_ios",
+      "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c129ebc7-312b-48c0-b2ed-961391ddc8c2?rule=$_59.JPG",
+      "active": true,
+      "description": "Weitere Detail´s, große Bilder und Fahrzeugankauf unter--- www.motorradx.de Wenn noch jemand Fragen oder Interesse hat eben Anrufen. Tel: 05461/707571 oder 0178/1665583. Mail´s können leider aus Zeitlichen Gründen nicht immer bearbeitet werden. Preisverhandlungen machen wir nur vor Ort. Wir sind immer auf der Suche nach Motorräder, egal welcher Zustand, Neu und länger Abgemeldet. Wer noch was zum Verkauf stehen hat, einfach mal Anbieten. Gruss motorradx.",
+      "excluded_by_text": false,
+      "image_sha256": null,
+      "visually_verified_3aj": false,
+      "red_white": false,
+      "review_status": "needs_review",
+      "first_seen": "2026-09-10T09:41:59.416765+00:00",
+      "last_checked": "2026-09-10T09:41:59.416765+00:00",
+      "check_status": "ok",
+      "last_seen": "2026-09-10T09:41:59.416765+00:00",
+      "previous_price_eur": null,
+      "price_history": [
+        {
+          "at": "2026-09-10T09:41:59.416765+00:00",
+          "price_eur": 1800
+        }
+      ]
+    },
+    {
+      "id": "2370387484",
+      "title": "Yamaha XT 600 Umbau",
+      "price_eur": 4999,
+      "city": "40215 Düsseldorf - Friedrichstadt",
+      "registration": "1989-04",
+      "mileage_km": 29800,
+      "date_listed": "2026-09-09",
+      "listing_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600-umbau/2370387484-305-2087",
+      "app_share_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600-umbau/2370387484-305-2087?utm_source=copyToPasteboard&utm_campaign=socialbuttons&utm_medium=social&utm_content=app_ios",
+      "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0fcb8827-31dc-401c-857e-a24a954e28e5?rule=$_59.JPG",
+      "active": true,
+      "description": "Komplett neu aufgebaute Yamaha XT 600 mit folgenden Extras: -kpl.Neulack -Sportauspuff (ABE) -Sitzbankumbau etc.etc. Wertgutachten in Höhe von 12900,-Euro Unsere Leistungsversprechen beim Kauf eines gebrauchten Motorrads: 1.Inspektion mit Wechsel aller Flüssigkeiten 2.zwei Jahre Tüv 3.ein Jahr Gewährleistung !!!! WIR SUCHEN STÄNDIG GEBRAUCHTE FAHRZEUGE;BITTE ALLES ANBIETEN !!!!! Tel.:0211-94193048 / Mobil:01573-0993558 Öffnungszeiten:Mo.-Fr.:8.00-13.00 Uhr und 14.00-17.00 Uhr Samstag:nach Vereinbarung",
+      "excluded_by_text": false,
+      "image_sha256": null,
+      "visually_verified_3aj": false,
+      "red_white": false,
+      "review_status": "needs_review",
+      "first_seen": "2026-09-10T09:42:01.990008+00:00",
+      "last_checked": "2026-09-10T09:42:01.990008+00:00",
+      "check_status": "ok",
+      "last_seen": "2026-09-10T09:42:01.990008+00:00",
+      "previous_price_eur": null,
+      "price_history": [
+        {
+          "at": "2026-09-10T09:42:01.990008+00:00",
+          "price_eur": 4999
+        }
+      ]
+    },
+    {
+      "id": "3380961041",
+      "title": "Wolfis Garage YAMAHA DT400 - Gabel + Scheibenbremse von XT 600",
+      "price_eur": 5500,
+      "city": "82402 Bayern - Seeshaupt",
+      "registration": "1979-07",
+      "mileage_km": 395,
+      "date_listed": "2026-09-10",
+      "listing_url": "https://www.kleinanzeigen.de/s-anzeige/wolfis-garage-yamaha-dt400-gabel-scheibenbremse-von-xt-600/3380961041-305-5616",
+      "app_share_url": "https://www.kleinanzeigen.de/s-anzeige/wolfis-garage-yamaha-dt400-gabel-scheibenbremse-von-xt-600/3380961041-305-5616?utm_source=copyToPasteboard&utm_campaign=socialbuttons&utm_medium=social&utm_content=app_ios",
+      "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f572ac6a-3d78-44c7-b460-3c5738ab1bd9?rule=$_59.JPG",
+      "active": true,
+      "description": "Alle Umbauten eingetragen - TÜV NEU - LED Scheinwerfer - LED Rücklicht + Bremslicht - LED Miniblinker - kleiner Tacho von KEDO - Kotflügel hinten von KEDO - Die YAMAHA DT 400 ist ein echter Klassiker unter den luftgekühlten 2-Takt-Enduros, der Motor ist bekannt für seine Robustheit und den typischen 2-Takt-Charakter. Die Maschine wurde in einer Fachwerkstatt liebevoll aufgebaut und mit der Vorderradgabel inkl. Vorderrad von einer YAMAHA XT 600 modifiziert. Rahmen wurde pulverbeschichtet. Motor und Getriebe wurden komplett überholt, alle Verschleißteile sind neuwertig.. Umbau von 6 Volt auf 12 Volt, Maschine läuft ohne Batterie - 12 Volt Spannungsregler. Sitzbank wurde schlanker gemacht und neu bezogen -> zweifarbig schwarz/grau. Klassischer schlanker Enduro-Tank von der Yamaha 250 DT ca. 8,5 Liter Tankinhalt. Der 2-Takt-Öltank ist eine Spezialanfertigung - ein absolutes Einzelstück und alle Umbauten sind vom TÜV genehmigt und eingetragen. Der Motor läuft super und durch das leichte Gewicht einfach Fahrspaß PUR !!! Perfekt für alle, die noch echtes, unverfälschtes Motorradfahren erleben wollen. Reifen und Schläuche sind neu. (Laufzeit von 395 km) Wir verkaufen das Motorrad im Kundenauftrag - das ist ein Privatverkauf, daher keine Gewährleistung.",
+      "excluded_by_text": false,
+      "image_sha256": null,
+      "visually_verified_3aj": false,
+      "red_white": false,
+      "review_status": "needs_review",
+      "first_seen": "2026-09-10T09:42:06.943863+00:00",
+      "last_checked": "2026-09-10T09:42:06.943863+00:00",
+      "check_status": "ok",
+      "last_seen": "2026-09-10T09:42:06.943863+00:00",
+      "previous_price_eur": null,
+      "price_history": [
+        {
+          "at": "2026-09-10T09:42:06.943863+00:00",
+          "price_eur": 5500
+        }
+      ]
+    },
+    {
+      "id": "3508012296",
+      "title": "Yamaha XT 600 3tb",
+      "price_eur": 1222,
+      "city": "86720 Bayern - Nördlingen",
+      "registration": "1990",
+      "mileage_km": 55570,
+      "date_listed": "2026-09-09",
+      "listing_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600-3tb/3508012296-305-7359",
+      "app_share_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600-3tb/3508012296-305-7359?utm_source=copyToPasteboard&utm_campaign=socialbuttons&utm_medium=social&utm_content=app_ios",
+      "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9733c62-2fe7-467c-b604-150178821b69?rule=$_59.JPG",
+      "active": true,
+      "description": "Hallo, verkaufe meine XT 600 3tb. Sie hat bei 45000km einen Austausch Motor bekommen. TÜV ist abgelaufen. Springt an und fährt. War bis vor 2 Jahren angemeldet. Wird als Bastler-Fahrzeug verkauft. Fahrzeug kann gerne besichtigt werden. Preis ist VB, macht ein Angebot. Tel. 01715210263",
+      "excluded_by_text": false,
+      "image_sha256": null,
+      "visually_verified_3aj": false,
+      "red_white": false,
+      "review_status": "needs_review",
+      "first_seen": "2026-09-10T09:43:15.257903+00:00",
+      "last_checked": "2026-09-10T09:43:15.257903+00:00",
+      "check_status": "ok",
+      "last_seen": "2026-09-10T09:43:15.257903+00:00",
+      "previous_price_eur": null,
+      "price_history": [
+        {
+          "at": "2026-09-10T09:43:15.257903+00:00",
+          "price_eur": 1222
+        }
+      ]
+    },
+    {
+      "id": "3508045456",
+      "title": "XT 600 E (3TB)",
+      "price_eur": 3850,
+      "city": "22119 Hamburg-Mitte - Hamburg Horn",
+      "registration": "1998-07",
+      "mileage_km": 6636,
+      "date_listed": "2026-09-09",
+      "listing_url": "https://www.kleinanzeigen.de/s-anzeige/xt-600-e-3tb-/3508045456-305-9459",
+      "app_share_url": "https://www.kleinanzeigen.de/s-anzeige/xt-600-e-3tb-/3508045456-305-9459?utm_source=copyToPasteboard&utm_campaign=socialbuttons&utm_medium=social&utm_content=app_ios",
+      "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5b542d64-5ce5-4a49-87d7-1715e40e9bb7?rule=$_59.JPG",
+      "active": true,
+      "description": "Originale XT 600 E in TOP Zustand und echtem km-Stand. Die Yamaha wurde und wird gepflegt, stand aber viele Jahre ungenutzt in der Garage. Für weitere Standjahre ist sie definitiv zu schade. Die einzigen Veränderungen sind ein schöneres LED Rücklicht und ein Marving Sportauspuff, beides zugelassen für die Straße. Originaler Endschalldämfer ist vorhanden. Die XT 600 E springt zuverlässig an und fährt super, der Motor läuft stabil. Die Yamaha ist noch angemeldet und kann Probe gefahren werden. Bei Kauf gibt es 2 Jahre TÜV, der derzeit fällig ist. Starten und losfahren .",
+      "excluded_by_text": false,
+      "image_sha256": null,
+      "visually_verified_3aj": false,
+      "red_white": false,
+      "review_status": "needs_review",
+      "first_seen": "2026-09-10T09:43:17.693600+00:00",
+      "last_checked": "2026-09-10T09:43:17.693600+00:00",
+      "check_status": "ok",
+      "last_seen": "2026-09-10T09:43:17.693600+00:00",
+      "previous_price_eur": null,
+      "price_history": [
+        {
+          "at": "2026-09-10T09:43:17.693600+00:00",
+          "price_eur": 3850
+        }
+      ]
+    },
+    {
+      "id": "3508300486",
+      "title": "Yamaha XT600 E-Starter",
+      "price_eur": 2800,
+      "city": "48712 Nordrhein-Westfalen - Gescher",
+      "registration": "1992-03",
+      "mileage_km": 47000,
+      "date_listed": "2026-09-09",
+      "listing_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt600-e-starter/3508300486-305-1333",
+      "app_share_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt600-e-starter/3508300486-305-1333?utm_source=copyToPasteboard&utm_campaign=socialbuttons&utm_medium=social&utm_content=app_ios",
+      "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/30ff1197-d3b1-4205-aa8a-d798d1ba077f?rule=$_59.JPG",
+      "active": true,
+      "description": "Verkaufe meine XT 600 in blau mit E-Starter in gutem, fast originalen Zustand. Ölwechsel wurde letztes Jahr durchgeführt, neue Bremsscheiben und Klötze vorne und hinten auch neu. Reifen und Schläuche letztes Jahr beide ebenfalls neu (Continental, DOT 2025), Batterie neuwertig (letztes Jahr gekauft). CarPlay Display und Zusatzscheinwerfer (mit E-Prüfzeichen) + Topcase sind dabei. Zudem gibt es noch eine Reparaturanleitung. TÜV 03/27. Faltenbälge Neu in Original Farbe (grün) liegen bei. Baujahr 1992, ich bin 3. Hand. 1. Hand war ein Autohaus (stand dort als Deko, 1992-1993), 2. Hand ein älterer Herr (1992-2024), alle alten TÜV Dokumente sind vorhanden. 600ccm, 45 PS, 30.000 Meilen. Bei Interesse gerne melden.",
+      "excluded_by_text": false,
+      "image_sha256": null,
+      "visually_verified_3aj": false,
+      "red_white": false,
+      "review_status": "needs_review",
+      "first_seen": "2026-09-10T09:43:20.182713+00:00",
+      "last_checked": "2026-09-10T09:43:20.182713+00:00",
+      "check_status": "ok",
+      "last_seen": "2026-09-10T09:43:20.182713+00:00",
+      "previous_price_eur": null,
+      "price_history": [
+        {
+          "at": "2026-09-10T09:43:20.182713+00:00",
+          "price_eur": 2800
+        }
+      ]
+    },
+    {
+      "id": "3508518104",
+      "title": "Yamaha XT600Z 1JV / sehr guter Zustand",
+      "price_eur": 4500,
+      "city": "24558 Schleswig-Holstein - Henstedt-Ulzburg",
+      "registration": "1988-07",
+      "mileage_km": 33500,
+      "date_listed": "2026-09-10",
+      "listing_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt600z-1jv-sehr-guter-zustand/3508518104-305-13734",
+      "app_share_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt600z-1jv-sehr-guter-zustand/3508518104-305-13734?utm_source=copyToPasteboard&utm_campaign=socialbuttons&utm_medium=social&utm_content=app_ios",
+      "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/03067c30-689c-4b8c-97d4-e86ac8efb8ce?rule=$_59.JPG",
+      "active": true,
+      "description": "Zur Information: Es wurde sehr viel Zeit und Geld investiert, um dieses Motorrad wieder in seinem alten Glanz erstrahlen zu lassen! Ich verkaufe ein XT600Z aus dem Jahre 1988, die Yamaha befindet sich in einen sehr guten fast (*) Originalen Zustand und ist Unfall frei. * Frontflügel wurde für die bessere Luftzufuhr getauscht Motor und Getriebe wurde bereits von Motoritz überholt, das Bike läuft einwandfrei. Der Tank wurde neu Lackiert und alles Plastikteile befinden sich im Neuzustand Der TÜV ist bis 8/27 kann aber auf Wunsch (gegen Bezahlung) erneuert werden. Wer ein besonderes Motorrad sucht und lange Beine hat wir mit diesem Bike seine Freude haben. 1. Original Werkzeug liegt bei. 2. Reifen wurden letztes Jahr erneuert 3. Rechnungen über Ersatzteile KEDO über 1000€ vom letztem Jahr liegt bei 4. Hinterrad neue Speichen 5. Griffheizung 6. Tank neu Lackiert ohne Dellen Rechtlicher Hinweis: kein Tausch, Rücknahme",
+      "excluded_by_text": false,
+      "image_sha256": null,
+      "visually_verified_3aj": false,
+      "red_white": false,
+      "review_status": "needs_review",
+      "first_seen": "2026-09-10T09:43:22.763609+00:00",
+      "last_checked": "2026-09-10T09:43:22.763609+00:00",
+      "check_status": "ok",
+      "last_seen": "2026-09-10T09:43:22.763609+00:00",
+      "previous_price_eur": null,
+      "price_history": [
+        {
+          "at": "2026-09-10T09:43:22.763609+00:00",
+          "price_eur": 4500
+        }
+      ]
+    },
+    {
+      "id": "3508554647",
+      "title": "Yamaha XT 600 E 3TB",
+      "price_eur": 2250,
+      "city": "87672 Bayern - Roßhaupten",
+      "registration": "1991-04",
+      "mileage_km": 63873,
+      "date_listed": "2026-09-10",
+      "listing_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600-e-3tb/3508554647-305-6571",
+      "app_share_url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xt-600-e-3tb/3508554647-305-6571?utm_source=copyToPasteboard&utm_campaign=socialbuttons&utm_medium=social&utm_content=app_ios",
+      "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c3b06c35-5f49-494f-8855-1822562e7f4b?rule=$_59.JPG",
+      "active": true,
+      "description": "Moin, verkaufe hiermit meine Yamaha XT 600E 3TB. Habe mir die Maschine vor ca. 2 Jahren, zum einstieg in das Biker leben, mit dem A2 geholt. Die Maschine hat mir nun 2 Jahre viel Spaß bereitet, habe mir jedoch jetzt mit dem A eine große Maschine zugelegt. Der Vorbesitzer hat die Maschine neu lackieren lassen und neue Reifen montiert, der Tank wurde jedoch falsch behandelt weshalb der Lack Blasen bildete und ich ihn dieses Jahr nochmal frisch lackieren lies. Ein großer Service mit Zündkerze, Luftfilter, Motoröl und Filter, Ventilspiel wurde von mir im September 2025 gemacht. Zusätzlich ist ein Sportauspuff und ein Öltemperaturanzeiger verbaut. Neben dem E- Starter verfügt die Maschine auch noch über einen Kickstarter. Der gesamt Zustand der Maschine ist trotzt der Laufleistung meines Erachtens immer noch sehr gut. Der Tüv ist aktuell noch abgelaufen wird aber selbstverständlich vor Verkauf noch Frisch gemacht. Damit beim neuen Besitzer die Devise ist anmelden, losfahren und Spaß haben. Die originalen Spiegel und einen Mittelständer habe ich ebenfalls noch da und würde ich mit dazu geben. Gegen Aufpreis würde ich noch meinen Topcase mit Halterung dazugeben (auf den letzten Bild) Eine Besichtigung und Probefahrt ist nach Absprache natürlich möglich. Gruß Lukas Privatverkauf unter Ausschluss jeglicher Garantie, Gewährleistung und Rücknahme.",
+      "excluded_by_text": false,
+      "image_sha256": null,
+      "visually_verified_3aj": false,
+      "red_white": false,
+      "review_status": "needs_review",
+      "first_seen": "2026-09-10T09:43:25.218506+00:00",
+      "last_checked": "2026-09-10T09:43:25.218506+00:00",
+      "check_status": "ok",
+      "last_seen": "2026-09-10T09:43:25.218506+00:00",
+      "previous_price_eur": null,
+      "price_history": [
+        {
+          "at": "2026-09-10T09:43:25.218506+00:00",
+          "price_eur": 2250
+        }
+      ]
     }
   ],
   "errors": [],
-  "last_full_search": "2026-09-09T09:43:51.684256+00:00",
+  "last_full_search": "2026-09-10T09:43:25.218547+00:00",
   "run_status": "ok",
   "reviewed_count": 143,
   "search_complete": true,
-  "discovered_count": 177
+  "discovered_count": 185
 }
